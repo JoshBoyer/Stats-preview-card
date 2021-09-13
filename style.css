@@ -124,6 +124,7 @@ body {
   }
 
   .card--img {
+    background-image: url("./images/image-header-desktop.jpg");
     width: 540px;
     height: 100%;
     border-radius: 0 0.7rem 0.7rem 0;
